@@ -1,6 +1,6 @@
-# Reservoir_engineering
+# Reservoir engineering
 
-Reservoir engineering is a pakage that contains useful functions for reservoir engineering problems.
+Reservoir engineering is a package that contains useful functions for reservoir engineering problems.
 
 ## Features
 
